@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In my personal repository 🔭 - Coding template & Elegant solutions.
+In my personal profile 🔭 - Coding template & Elegant solutions.
 <!--
 In repository "prilavok" - Food tech solutions.
 In repository "kiteka-dev" - Project for inspired people and progress solutions.
