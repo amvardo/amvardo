@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+In my personal repository 🔭 - Coding template & Elegant solutions.
+<!--
+In repository "prilavok" - Food tech solutions.
+In repository "kiteka-dev" - Project for inspired people and progress solutions.
+-->
+
 <!--
 **amvardo/amvardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
