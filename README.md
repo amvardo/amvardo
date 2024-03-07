@@ -1,5 +1,4 @@
-### 💬
-*In personal repos:* **It's app code solutions for business problem solving.**
+### 💬 **It's app code solutions for business problem solving.**
 <!--
 In repository "prilavok" - Food tech solutions.
 In repository "kiteka-dev" - Project for inspired people and progress solutions.
